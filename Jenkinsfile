@@ -8,7 +8,7 @@ stage('Checkout'){
 
 steps{
 
-git branch: "main", url: 'https://github.com/NoorullahAnsari/Email-Service.git'
+git branch: "main", url: 'https://github.com/NoorullahAnsari/g2-notification-service.git'
 
 }
 
